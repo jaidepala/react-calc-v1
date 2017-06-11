@@ -3,6 +3,10 @@
 Demo: http://react-calc-v1.netlify.com/
 
 ### Calculator App.
+    
+    Styling Credits:
+    https://bootsnipp.com/snippets/kW9gA
+
     Here you can do simple math calculations. One thing that seems to be missing in most calculators, is after 
     you've done your calculation, if you want to do a different operation, you need to re-enter the parameters, 
     so this calculator overcame, that by allowing the sign to change, and on the basis of the sign
